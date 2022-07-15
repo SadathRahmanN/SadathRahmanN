@@ -19,6 +19,8 @@
 [<img align="left" alt="SadathRahmanN | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="SadathRahmanN | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="SadathRahmanN | Snapchat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" />][snapchat]
+[<img align="left" alt="SadathRahmanN | Disocrd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="SadathRahmanN | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
 <br />
 <br />
@@ -35,4 +37,5 @@
 [facebook]: https://www.facebook.com/SadathRahmanN
 [telegram]: https://t.me/sa_ath
 [snapchat]: https://www.snapchat.com/add/sadath_rahman
-
+[discord]: https://support.discord.com/hc/en-us/profiles/7488526696983
+[vk]:https://id.vk.com/account/#/main
