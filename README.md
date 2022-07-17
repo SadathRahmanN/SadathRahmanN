@@ -22,6 +22,7 @@
 [<img align="left" alt="SadathRahmanN | Disocrd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="SadathRahmanN | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 
+
 <br />
 <br />
 <br />
@@ -33,9 +34,9 @@
 [linkedin]: https://www.linkedin.com/in/sadathrahmann/
 [gmail]: sadathrahmann@gmail.com
 [icloud]: sadathrahmann@icloud.com
-[whatsapp]: https://wa.me/9747536130
+[whatsapp]: https://wa.me/919747536130
 [facebook]: https://www.facebook.com/SadathRahmanN
 [telegram]: https://t.me/sa_ath
 [snapchat]: https://www.snapchat.com/add/sadath_rahman
 [discord]: https://support.discord.com/hc/en-us/profiles/7488526696983
-[vk]:https://id.vk.com/account/#/main
+[vk]: https://id.vk.com/account/#/main
