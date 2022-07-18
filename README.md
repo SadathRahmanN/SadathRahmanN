@@ -1,12 +1,17 @@
+<h3 align="center">
 ### Hi guyss 👋,I'm SADATH RAHMAN NARANGAVIL
+</h3>
 
-## I'm a Student,and Developer!
-- I'm currently learning everything 🤣
+<h2 align="center">
+## I'm a Student,Photographer 📸,Developer 💻, and Designer 🎨!
+</h2>
+
+## 🌱 I'm currently learning everything 🤣 
 - I'm looking to collaborate with other content creators
 - 2022 Goals:Contribute more to Open Source projects
 - Fun fact:I love to travel and riding bikes
 
-### Connect with me:
+### 🤝 Connect with me:
 
 [<img align="left" alt="SadathRahmanN.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="SadathRahmanN | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -21,9 +26,22 @@
 [<img align="left" alt="SadathRahmanN | Snapchat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/snapchat.svg" />][snapchat]
 [<img align="left" alt="SadathRahmanN | Disocrd" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 [<img align="left" alt="SadathRahmanN | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-
+[<img align="left" alt="SadathRahmanN | GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
+[<img align="left" alt="SadathRahmanN | BitBucket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />][bitbucket]
+<a href="https://sayat.me/sadath_rahman_n"><img align="left" src="https://raw.githubusercontent.com/SadathRahmanN/SadathRahmanN/main/images/sayat.svg" alt="sadath_rahman_n | Sayat" width="21px"/></a>
 
 <br />
+
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+<br />
+
+## 📈 GitHub Stats
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=SadathRahmanN)](https://github.com/SadathRahmanN)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SadathRahmanN&layout=compact)](https://github.com/SadathRahmanN)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=SadathRahmanN.SadathRahmanN)](https://www.SadathRahmanN.dev/)
+
 <br />
 <br />
 
@@ -40,3 +58,5 @@
 [snapchat]: https://www.snapchat.com/add/sadath_rahman
 [discord]: https://support.discord.com/hc/en-us/profiles/7488526696983
 [vk]: https://id.vk.com/account/#/main
+[gitlab]: https://gitlab.com/SADATHRAHMANN
+[bitbucket]: 
