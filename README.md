@@ -8,8 +8,13 @@
 
 ## 🌱 I'm currently learning everything 🤣 
 - I'm looking to collaborate with other content creators
-- 2022 Goals:Contribute more to Open Source projects
-- Fun fact:I love to travel and riding bikes
+
+## 2022 Goals:
+- Contribute more to Open Source projects
+
+## ⚡ Fun fact about me
+- Travelling
+- Riding
 
 ### 🤝 Connect with me:
 
@@ -28,8 +33,9 @@
 [<img align="left" alt="SadathRahmanN | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="SadathRahmanN | GitLab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab]
 [<img align="left" alt="SadathRahmanN | BitBucket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />][bitbucket]
-<a href="https://sayat.me/sadath_rahman_n"><img align="left" src="https://raw.githubusercontent.com/SadathRahmanN/SadathRahmanN/main/images/sayat.svg" alt="sadath_rahman_n | Sayat" width="21px"/></a>
+<a href="https://sayat.me/sadath_rahman_n"><img align="left" src="https://github.com/SadathRahmanN/social-media-icon/blob/main/sayat-black.svg" alt="sadath_rahman_n | Sayat" width="21px"/></a>
 
+<br />
 <br />
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -59,4 +65,4 @@
 [discord]: https://support.discord.com/hc/en-us/profiles/7488526696983
 [vk]: https://id.vk.com/account/#/main
 [gitlab]: https://gitlab.com/SADATHRAHMANN
-[bitbucket]: 
+[bitbucket]: https://bitbucket.org/sadathrahmann-admin/
