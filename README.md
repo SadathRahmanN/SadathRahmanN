@@ -35,10 +35,11 @@
 [<img align="left" alt="SadathRahmanN | BitBucket" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bitbucket.svg" />][bitbucket]
 <a href="https://sayat.me/sadath_rahman_n"><img align="left" src="https://github.com/SadathRahmanN/social-media-icon/blob/main/sayat-black.svg" alt="sadath_rahman_n | Sayat" width="21px"/></a>
 
-<br />
-<br />
+<br>
+<br>
 
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+<h4 align="center"> 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+</h4>
 
 <br />
 
