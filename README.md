@@ -1,109 +1,85 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Sadath%20Rahman%20N&fontSize=75&color=0:6d28d9,50:7c3aed,100:4c1d95&fontColor=FFFFFF&fontAlignY=42&fontWeight=900&animation=fadeIn&desc=✦%20Developer%20%20%7C%20%20Designer%20%20%7C%20%20Photographer%20✦&descSize=20&descAlignY=65&descColor=e9d5ff" width="100%"/>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&height=55&lines=%F0%9F%91%8B+Hey+there%2C+I%27m+Sadath+Rahman!;%F0%9F%9A%80+Building+the+Web%2C+One+Line+at+a+Time;%F0%9F%8E%A8+Designing+Experiences+that+Wow;%F0%9F%93%B8+Capturing+Life+Through+the+Lens;%F0%9F%94%A5+Open+to+Work+%26+Collabs!)](https://git.io/typing-svg)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sadath%20Rahman&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%26%20UI%20Designer%20%7C%20Kerala%2C%20India&descAlignY=55&descSize=16)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Sadath+Rahman+%F0%9F%91%8B;Full+Stack+Developer+%7C+UI+Designer;React+%7C+Node.js+%7C+Laravel+%7C+Figma;Building+fast%2C+alive+web+experiences;Open+to+Freelance+%26+Collaboration+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SadathRahmanN&label=👁️%20Profile%20Views&color=7c3aed&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/SadathRahmanN?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1a1a2e)](https://github.com/SadathRahmanN)
-[![GitHub stars](https://img.shields.io/github/stars/SadathRahmanN?label=Total%20Stars&style=for-the-badge&color=f59e0b&labelColor=1a1a2e)](https://github.com/SadathRahmanN)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-sadathrahmann.github.io-6E40C9?style=for-the-badge&logoColor=white)](https://sadathrahmann.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadathrahmann/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sadath_Rahman_N)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sa_ath_/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/919747536130)
+
+<img src="https://komarev.com/ghpvc/?username=SadathRahmanN&label=Profile+Views&color=6E40C9&style=flat-square" alt="profile views" />
 
 </div>
 
 ---
 
-<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```yaml
-name       : Sadath Rahman Narangavil
-location   : Kerala, India  🇮🇳
-role       : Developer | Designer | Photographer
-status     : ✅ Open to Work
-education  : Computer Science Student
-passion    : Building beautiful, functional things
-hobbies    : Travelling 🌍 | Riding 🏍️ | Photography 📸
+```javascript
+const sadath = {
+  name: "Sadath Rahman Narangavil",
+  role: "Full Stack Developer & UI Designer",
+  location: "Kozhikode, Kerala 🇮🇳",
+  education: "B.Sc Computer Science",
+  languages: ["Malayalam", "English"],
+  stack: ["React", "Node.js", "Laravel", "Figma", "AWS"],
+  learning: ["Flutter 🚀", "Digital Marketing 🚀"],
+  available: true,
+  contact: "sadathrahmann@gmail.com"
+};
 ```
 
-<br/>
-
-- 🔭 Currently building **full-stack web applications**
-- 🌱 Deep diving into **React, Node.js & UI/UX Design**
-- 🎯 2025 Goal: **Ship 10 real-world projects**
-- 💡 I believe **great code is as beautiful as it is functional**
-- 🤝 Available for **freelance, collabs & full-time roles**
-- 📬 Reach me: **sadathrahmann@gmail.com**
+- 🔭 Building full-stack apps with **React, Node.js & Laravel**
+- 🌱 Levelling up in **Flutter** & **Digital Marketing**
+- 💼 **Open to freelance projects & full-time roles**
+- 🎨 Design in **Figma** — wireframe to pixel-perfect
+- ⚡ I watch dev tutorials at **2× speed** and cook as a form of design
 
 <br clear="right"/>
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🖥️ Frontend
-[![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,figma&theme=dark&perline=8)](https://skillicons.dev)
+**Frontend**
 
-### ⚙️ Backend & DevTools
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,git,github,vscode,linux&theme=dark&perline=8)](https://skillicons.dev)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-### 🎨 Creative Tools
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-CF96FD?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobe-lightroom&logoColor=white)
+**Backend**
 
-</div>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 
----
+**Database & Cloud**
 
-## 📊 GitHub Stats
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-<div align="center">
+**Currently Learning 🚀**
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SadathRahmanN&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=SadathRahmanN&theme=tokyonight&hide_border=true&background=0d1117&stroke=a855f7&ring=a855f7&fire=f59e0b&currStreakLabel=f59e0b&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" />
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadathRahmanN&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&langs_count=8" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=SadathRahmanN&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SadathRahmanN&bg_color=0d1117&color=a855f7&line=a855f7&point=f59e0b&area=true&hide_border=true&custom_title=Sadath%27s%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Snake Eating My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SadathRahmanN/SadathRahmanN/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SadathRahmanN/SadathRahmanN/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/SadathRahmanN/SadathRahmanN/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Digital Marketing](https://img.shields.io/badge/SEO%20%26%20Marketing-EA4335?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
@@ -113,20 +89,59 @@ hobbies    : Travelling 🌍 | Riding 🏍️ | Photography 📸
 
 <div align="center">
 
-[![MIMS](https://github-readme-stats.vercel.app/api/pin/?username=SadathRahmanN&repo=MIMS&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/SadathRahmanN/MIMS)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=SadathRahmanN&repo=sadathrahmann.github.io&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9&icon_color=f59e0b)](https://github.com/SadathRahmanN/sadathrahmann.github.io)
+| 🏗️ Project | 📝 Description | 🛠 Stack | 🔗 |
+|---|---|---|---|
+| **📚 BookHub** | Online book library — search, browse & manage | React · Node.js · MongoDB | [→](https://github.com/SadathRahmanN) |
+| **🍕 Tomato Food Delivery** | E-commerce UI with cart, checkout & Redux | React · Redux · Node.js | [→](https://github.com/SadathRahmanN) |
+| **✈️ TravelHub** | Travel destination explorer | HTML · CSS · JavaScript | [→](https://github.com/SadathRahmanN) |
+| **🌐 Portfolio** | Personal portfolio — live on GitHub Pages | HTML · CSS · JS · Swiper | [Live →](https://sadathrahmann.github.io) |
 
 </div>
 
 ---
 
-## 📸 Life Beyond the Screen
+## 📊 GitHub Stats
 
 <div align="center">
 
-| 🌍 Travelling | 🏍️ Riding | 📸 Photography |
-|:---:|:---:|:---:|
-| New places fuel creativity and broaden my design perspective | Freedom of the open road recharges me between projects | Visual storytelling through composition, light & emotion |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SadathRahmanN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SadathRahmanN&theme=tokyonight&hide_border=true" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadathRahmanN&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SadathRahmanN&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SadathRahmanN/SadathRahmanN/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SadathRahmanN/SadathRahmanN/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SadathRahmanN/SadathRahmanN/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+[![Sadath's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SadathRahmanN&theme=tokyo-night&hide_border=true&area=true)](https://github.com/SadathRahmanN)
 
 </div>
 
@@ -136,20 +151,16 @@ hobbies    : Travelling 🌍 | Riding 🏍️ | Photography 📸
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadathrahmann/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadathrahmann@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_sa_ath_/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Sadath_Rahman_N)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/sadathrahmann)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sa_ath)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/SADATHRAHMANN)
+<a href="https://sadathrahmann.github.io"><img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-6E40C9?style=for-the-badge" /></a>
+<a href="https://wa.me/919747536130"><img src="https://img.shields.io/badge/💬%20WhatsApp-Hire%20Me-25D366?style=for-the-badge" /></a>
+<a href="https://www.linkedin.com/in/sadathrahmann/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge" /></a>
+<a href="https://t.me/sa_ath"><img src="https://img.shields.io/badge/✈️%20Telegram-Chat-2CA5E0?style=for-the-badge" /></a>
+<a href="https://github.com/SadathRahmanN"><img src="https://img.shields.io/badge/⭐%20GitHub-Follow-181717?style=for-the-badge" /></a>
 
-<br/>
+<br/><br/>
 
-### 💬 Got an idea? Let's make it real — I'm just a message away!
+> 💬 *"I reply to every message — usually within a few hours. No ghosting, ever."*
 
 </div>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:6d28d9&height=120&section=footer&text=Thanks%20for%20visiting!%20Drop%20a%20%E2%AD%90%20if%20you%20like%20it!&fontSize=18&fontColor=e9d5ff&fontAlignY=65&animation=twinkling" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)
